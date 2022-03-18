@@ -45,11 +45,7 @@ char confirm;
 
 printf("\n(Program): tu numero es:\t %.02f + i%.02f \n", real_entrada, imag_entrada);
 sleep(1000);
-printf("\n(System): escibe 'Y' para confirmar\n\n");
-scanf("%s", &confirm);
 
-
-    if(confirm == 'Y'){
 
     //procedimineto para en calculo con modulos //
 
@@ -71,7 +67,7 @@ scanf("%s", &confirm);
     printf ("\n(Program): Numero polar es igual a\t %.02f(Cos (%.f) + isen (%.f)\n\n", modMag, modGrade, modGrade);
 
 
-    }
+    
 
 
 

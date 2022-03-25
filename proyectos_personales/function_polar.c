@@ -10,7 +10,6 @@
 
 int main (void) {
     system("clear");
-    //pide los inpts iniciales//
     float real_entrada;
     float imag_entrada;
     printf("\n(Program): ingresa tu numero real \n");
